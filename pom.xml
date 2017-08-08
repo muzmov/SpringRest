@@ -61,6 +61,7 @@
                 <version>2.2</version>
                 <configuration>
                     <failOnMissingWebXml>false</failOnMissingWebXml>
+                    <warName>springrest</warName>
                 </configuration>
             </plugin>
             <plugin>
